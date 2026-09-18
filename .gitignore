@@ -1,0 +1,11 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE generated files
+.vscode/
+*.csproj
+*.sln
+*.slnx
